@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap");
 
+// fonts
 $Poppins: "Poppins", sans-serif;
 
 // colors
@@ -18,7 +19,7 @@ $border-radius: 10px;
 // header height
 $header-height: 100px;
 
-//footer height
+// footer height
 $footer-height: 5rem;
 
 @mixin breakpoint($point) {
